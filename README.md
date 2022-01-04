@@ -100,5 +100,5 @@ Below factors play a major role in identifying defaulters:
 - This project was case study given by Upgrad IIIT Bangalore to do analysis & recommendations for the Lending Club company on loan defaulting mechanism
 
 ## Contact
-Created by Nikhil Patel [@np4800]
-Created by Shruthi N [@ShruthiNandakumar]
+- Created by Nikhil Patel [@np4800]
+- Created by Shruthi N [@ShruthiNandakumar]
