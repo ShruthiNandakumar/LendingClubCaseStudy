@@ -97,20 +97,8 @@ Below factors play a major role in identifying defaulters:
 - numpy - version 1.20.1
 
 ## Acknowledgements
-Give credit here.
 - This project was case study given by Upgrad IIIT Bangalore to do analysis & recommendations for the Lending Club company on loan defaulting mechanism
 
 ## Contact
 Created by Nikhil Patel [@np4800]
 Created by Shruthi N [@ShruthiNandakumar]
-
-
-<!-- Optional -->
-<!-- ## License -->
-<!-- This project is open source and available under the [... License](). -->
-
-<!-- You don't have to include all sections - just the one's relevant to your project -->
-
-
-## Add Changes
-* Here we go!
